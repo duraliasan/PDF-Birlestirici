@@ -13,35 +13,8 @@ PDF dosyalarını seçilen sıralamaya göre birleştirme.
 Çıktı dosyasının adını, geçerli tarih ve saate göre dinamik olarak oluşturma.
 Kullanıcı arayüzü ile kolay dosya seçimi ve sıralama işlemi.
 Çıktı dosyasını seçilen klasöre kaydetme.
-Gereksinimler
-Projenin çalışabilmesi için aşağıdaki Python kütüphanelerine ihtiyaç vardır:
 
-PyPDF2
-tkinter
-os
-datetime
-Bu kütüphaneleri yüklemek için şu komutu kullanabilirsiniz:
 
-bash
-Kopyala
-Düzenle
-pip install PyPDF2
-tkinter kütüphanesi Python ile birlikte gelir, bu yüzden ayrıca yüklemenize gerek yoktur.
-
-Kullanım
-Projeyi indirin veya klonlayın.
-
-bash
-Kopyala
-Düzenle
-git clone https://github.com/kullanici_adiniz/pdf-birlestirici.git
-cd pdf-birlestirici
-Projeyi çalıştırmak için aşağıdaki komutu kullanın:
-
-bash
-Kopyala
-Düzenle
-python pdfBirlestirme.py
 Uygulama açıldığında, "Dosya Seç" butonuna tıklayarak birleştirmek istediğiniz PDF dosyalarını seçin.
 
 PDF dosyalarını seçtikten sonra, "Yukarı Taşı" ve "Aşağı Taşı" butonlarıyla sıralamalarını yapabilirsiniz.
