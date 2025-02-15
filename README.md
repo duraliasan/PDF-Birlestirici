@@ -1,6 +1,8 @@
 PDF Birleştirici
 Bu proje, birden fazla PDF dosyasını sıralayarak birleştirmenizi sağlayan bir Python uygulamasıdır. Tkinter ile geliştirilen kullanıcı arayüzü sayesinde, kullanıcılar dosyaları kolayca seçebilir ve birleştirilmiş PDF dosyasını istedikleri klasöre kaydedebilirler.
 
+.exe dosyasını kullanarak işlem yapabilirsiniz. kullanımı tamamen ücretsiz ve basittir. tamamen hayır işi. internetteki ücretli ve sınırlı uygulamalardan bıkıp böyle bir şey oluşturma kararı aldım. lütfen kullanın ve tavsiye edin.
+
 Özellikler
 Birden fazla PDF dosyasını seçerek birleştirme.
 PDF dosyalarını seçilen sıralamaya göre birleştirme.
